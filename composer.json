@@ -5,7 +5,7 @@
     "homepage": "https://www.avency.de",
     "license": ["MIT"],
     "require": {
-        "php": "^7.2",
+        "php": "^8.1",
         "guzzlehttp/guzzle": "^7.3"
     },
     "autoload": {
